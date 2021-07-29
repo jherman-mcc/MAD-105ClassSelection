@@ -1,0 +1,2 @@
+rootProject.name = "ClassSelection"
+include ':app'
